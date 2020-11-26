@@ -1,0 +1,7 @@
+* Let's Uninstall
+  If you have tons of packages you don't remember why you installed, like me, then this might help.
+
+  For now it works with ~pacman~. Pull requests are welcome if anyone is interested to have it for ~apt~, ~dnf~, etc...
+
+** License
+   GPL3
